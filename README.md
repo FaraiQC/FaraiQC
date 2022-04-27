@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/faraiqc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faraiqc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/farai-chivunga-17a173188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farai-chivunga-17a173188" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farai-chivunga-17a173188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farai-chivunga-17a173188" height="30" width="40" /></a>
 <a href="https://instagram.com/faraiqc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faraiqc" height="30" width="40" /></a>
 </p>
 
@@ -29,6 +29,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faraiqc&show_icons=true&locale=en&layout=compact" alt="faraiqc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faraiqc&" alt="faraiqc" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaraiQC&theme=highcontrast)
