@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farai</h1>
-<h3 align="center">A highly motivated final year Computer Science at the University of Pretoria. I find pleasure in solving problems, learning new concepts and evolving.</h3>
+<h3 align="center">A highly motivated BSc Computer Science graduate from the University of Pretoria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraiqc&label=Profile%20views&color=0e75b6&style=flat" alt="faraiqc" /> </p>
 
