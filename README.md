@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraiqc" alt="faraiqc" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/faraiqc" target="blank"><img src="https://img.shields.io/twitter/follow/faraiqc?logo=twitter&style=for-the-badge" alt="faraiqc" /></a> </p>
-
 - 🔭 I’m currently working on [Tutor Me](https://github.com/COS301-SE-2022/Tutor-ME)
 
 - 🌱 I’m currently learning **Flutter(dart)**
