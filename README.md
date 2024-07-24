@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available on [https://github.com/faraiqc](https://github.com/faraiqc)
 
-- 📫 How to reach me **farai.fantasy.822@gmail.com**
+- 📫 How to reach me **farai.chivunga@tuks.co.za**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/farai-chivunga-17a173188](https://www.linkedin.com/in/farai-chivunga-17a173188)
 
